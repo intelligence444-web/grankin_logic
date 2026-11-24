@@ -30,6 +30,8 @@
         <property name="Оператор">ZONT Hotel Group</property>
         <property name="Отделка">ремонт и мебель</property>
         <property name="Рассрочка">0%</property>
+        <property name="1-комнатный номер">27,3 м²</property>
+        <property name="2-комнатный номер">42,8 м²</property>
       </offer>
       <offer id="102" available="true">
         <name>Инвестиционный номер в отеле в Белокурихе, Алтай</name>
@@ -50,6 +52,8 @@
         <property name="Оператор">ZONT Hotel Group</property>
         <property name="Отделка">ремонт и мебель</property>
         <property name="Рассрочка">0%</property>
+        <property name="1-комнатный номер">27,3 м²</property>
+        <property name="2-комнатный номер">42,8 м²</property>
       </offer>
       <offer id="103" available="true">
         <name>Номер в отеле в собственность по ДДУ, Белокуриха</name>
@@ -70,6 +74,8 @@
         <property name="Оператор">ZONT Hotel Group</property>
         <property name="Отделка">ремонт и мебель</property>
         <property name="Рассрочка">0%</property>
+        <property name="1-комнатный номер">27,3 м²</property>
+        <property name="2-комнатный номер">42,8 м²</property>
       </offer>
       <offer id="201" available="true">
         <name>Номер в собственность в ЛОК Вера, Сочи</name>
