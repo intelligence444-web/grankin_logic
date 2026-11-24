@@ -68,7 +68,10 @@
         <price from="true">27000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://estate-start.ru/img/54365123.png</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_01_aerial_sea_mountains.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_02_pool.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_03_room.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_04_lounge.jpg</picture>
         <description>Оздоровительный комплекс, 7–8 минут до моря</description>
         <sales_notes>Первый взнос от 20%</sales_notes>
         <custom_label_0>vera</custom_label_0>
@@ -85,7 +88,10 @@
         <price from="true">27000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://estate-start.ru/img/54365123.png</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_03_room.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_01_aerial_sea_mountains.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_02_pool.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_04_lounge.jpg</picture>
         <description>Оператор Cosmos Selection Medical, Медскан</description>
         <sales_notes>Первый взнос от 20%</sales_notes>
         <custom_label_0>vera</custom_label_0>
@@ -102,7 +108,10 @@
         <price from="true">27000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://estate-start.ru/img/54365123.png</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_02_pool.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_03_room.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_04_lounge.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_01_aerial_sea_mountains.jpg</picture>
         <description>ДДУ по 214-ФЗ, эскроу, разрешение получено</description>
         <sales_notes>Рассрочка, взнос от 20%</sales_notes>
         <custom_label_0>vera</custom_label_0>
