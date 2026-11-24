@@ -119,7 +119,11 @@
         <price from="true">31000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://estate-start.ru/img/51429901.png</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_01_aerial_sea.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_02_aerial_beach.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_03_pool_day.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_05_room_sunset_sea.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_08_bedroom_balcony.jpg</picture>
         <description>Отель на первой линии, закрытый пляж 3,3 га</description>
         <sales_notes>Рассрочка 0%, ДДУ 214-ФЗ</sales_notes>
         <custom_label_0>agoy</custom_label_0>
@@ -136,7 +140,11 @@
         <price from="true">31000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://estate-start.ru/img/51429901.png</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_05_room_sunset_sea.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_06_room_day_sea.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_08_bedroom_balcony.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_01_aerial_sea.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_03_pool_day.jpg</picture>
         <description>Первая линия без железной дороги, Агой</description>
         <sales_notes>Рассрочка 0%</sales_notes>
         <custom_label_0>agoy</custom_label_0>
@@ -153,7 +161,11 @@
         <price from="true">31000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://estate-start.ru/img/51429901.png</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_02_aerial_beach.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_08_bedroom_balcony.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_07_living_balcony.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_03_pool_day.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_01_aerial_sea.jpg</picture>
         <description>Standard, Family, Lux, President Lux</description>
         <sales_notes>Рассрочка 0%, сдача 2029</sales_notes>
         <custom_label_0>agoy</custom_label_0>

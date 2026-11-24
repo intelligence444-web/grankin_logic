@@ -19,6 +19,39 @@ from xml.sax.saxutils import escape, quoteattr
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "data" / "feed.json"
 OUT = ROOT / "feeds" / "estate_start_feed.yml"
+# Картинки из папки images/ отдаются Директу прямыми ссылками GitHub (репозиторий публичный).
+RAW_BASE = "https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/"
+PICTURE_MIN_SIDE = 450
+PICTURE_MAX_BYTES = 10 * 1024 * 1024
+
+
+def picture_url(p):
+    """Внешняя ссылка остаётся как есть, путь внутри репозитория (images/...) превращается в raw-ссылку."""
+    return p if p.startswith("http") else RAW_BASE + p
+
+
+def offer_pictures(data, o):
+    """У карточки может быть свой набор картинок; иначе берутся картинки объекта."""
+    return o.get("pictures") or data["objects"][o["object"]]["pictures"]
+
+
+def check_local_picture(p):
+    """Для картинок из репозитория: файл есть, формат и размер подходят Директу."""
+    path = ROOT / p
+    if not path.exists():
+        return f"нет файла {p}"
+    if path.stat().st_size > PICTURE_MAX_BYTES:
+        return f"{p} больше 10 МБ"
+    try:
+        from PIL import Image
+    except ImportError:
+        return None  # Pillow не установлен — размер в пикселях не проверяем
+    with Image.open(path) as im:
+        if im.format not in ("JPEG", "PNG", "WEBP", "GIF"):
+            return f"{p}: формат {im.format} не поддерживается"
+        if min(im.size) < PICTURE_MIN_SIDE:
+            return f"{p}: {im.size[0]}×{im.size[1]}, нужно от {PICTURE_MIN_SIDE} px по каждой стороне"
+    return None
 
 NAME_MAX = 56
 TEXT_MAX = 81
@@ -56,6 +89,17 @@ def validate(data):
         for w in BANNED_ANYWHERE:
             if w in o.get("sales_notes", "").lower():
                 errors.append(f"{tag}: запрещённое слово «{w}» в sales_notes")
+        if o["object"] in data["objects"]:
+            pics = offer_pictures(data, o)
+            if not 1 <= len(pics) <= PICTURES_MAX:
+                errors.append(f"{tag}: картинок должно быть от 1 до {PICTURES_MAX}, сейчас {len(pics)}")
+            if len(set(pics)) != len(pics):
+                errors.append(f"{tag}: картинки повторяются")
+            for p in pics:
+                if not p.startswith("http"):
+                    err = check_local_picture(p)
+                    if err:
+                        errors.append(f"{tag}: {err}")
     for key, obj in data["objects"].items():
         if len(obj["properties"]) > PROPS_MAX:
             errors.append(f"{key}: больше {PROPS_MAX} характеристик")
@@ -63,7 +107,7 @@ def validate(data):
             if len(pn) > PROP_NAME_MAX:
                 errors.append(f"{key}: property name «{pn}» длиннее {PROP_NAME_MAX}")
         if not 1 <= len(obj["pictures"]) <= PICTURES_MAX:
-            errors.append(f"{key}: картинок должно быть от 1 до {PICTURES_MAX}")
+            errors.append(f"{key}: картинок объекта должно быть от 1 до {PICTURES_MAX}")
     return errors
 
 
@@ -93,7 +137,7 @@ def build(data):
             "        <currencyId>RUR</currencyId>",
             f"        <categoryId>{obj['category_id']}</categoryId>",
         ]
-        lines += [f"        <picture>{escape(p)}</picture>" for p in obj["pictures"]]
+        lines += [f"        <picture>{escape(picture_url(p))}</picture>" for p in offer_pictures(data, o)]
         lines.append(f"        <description>{escape(o['description'])}</description>")
         if o.get("sales_notes"):
             lines.append(f"        <sales_notes>{escape(o['sales_notes'])}</sales_notes>")
@@ -124,7 +168,8 @@ def main():
     OUT.write_text(xml, encoding="utf-8")
     print(f"OK: {OUT.relative_to(ROOT)}, товаров: {len(data['offers'])}")
     for o in data["offers"]:
-        print(f"  {o['id']}  {o['object']:<8} {o['variant']}  {o['name']}")
+        n = len(offer_pictures(data, o))
+        print(f"  {o['id']}  {o['object']:<8} {o['variant']}  фото: {n}  {o['name']}")
 
 
 if __name__ == "__main__":
