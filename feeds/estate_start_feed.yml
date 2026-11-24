@@ -89,6 +89,7 @@
         <property name="Договор">ДДУ по 214-ФЗ, эскроу</property>
         <property name="Оператор">Cosmos Selection Medical</property>
         <property name="Первый взнос">от 20%</property>
+        <property name="Номер «Стандарт»">33 м², 2+1 гостя</property>
       </offer>
       <offer id="202" available="true">
         <name>Инвестиционный номер в отеле в Сочи у моря</name>
@@ -108,6 +109,7 @@
         <property name="Договор">ДДУ по 214-ФЗ, эскроу</property>
         <property name="Оператор">Cosmos Selection Medical</property>
         <property name="Первый взнос">от 20%</property>
+        <property name="Номер «Стандарт»">33 м², 2+1 гостя</property>
       </offer>
       <offer id="203" available="true">
         <name>Номер в отеле в собственность по ДДУ, Сочи</name>
@@ -127,6 +129,7 @@
         <property name="Договор">ДДУ по 214-ФЗ, эскроу</property>
         <property name="Оператор">Cosmos Selection Medical</property>
         <property name="Первый взнос">от 20%</property>
+        <property name="Номер «Стандарт»">33 м², 2+1 гостя</property>
       </offer>
       <offer id="301" available="true">
         <name>Апартаменты в собственность Палаццо де Агой</name>
@@ -145,6 +148,8 @@
         <custom_label_1>F1</custom_label_1>
         <property name="Локация">Агой, первая линия</property>
         <property name="Пляж">закрытый, 3,3 га</property>
+        <property name="Площадь">от 29,1 м²</property>
+        <property name="Оператор">DOMINA</property>
         <property name="Договор">ДДУ по 214-ФЗ</property>
         <property name="Срок сдачи">IV кв. 2029</property>
         <property name="Рассрочка">0%</property>
@@ -166,6 +171,8 @@
         <custom_label_1>F2</custom_label_1>
         <property name="Локация">Агой, первая линия</property>
         <property name="Пляж">закрытый, 3,3 га</property>
+        <property name="Площадь">от 29,1 м²</property>
+        <property name="Оператор">DOMINA</property>
         <property name="Договор">ДДУ по 214-ФЗ</property>
         <property name="Срок сдачи">IV кв. 2029</property>
         <property name="Рассрочка">0%</property>
@@ -187,6 +194,8 @@
         <custom_label_1>F3</custom_label_1>
         <property name="Локация">Агой, первая линия</property>
         <property name="Пляж">закрытый, 3,3 га</property>
+        <property name="Площадь">от 29,1 м²</property>
+        <property name="Оператор">DOMINA</property>
         <property name="Договор">ДДУ по 214-ФЗ</property>
         <property name="Срок сдачи">IV кв. 2029</property>
         <property name="Рассрочка">0%</property>
