@@ -89,7 +89,7 @@
         <property name="Договор">ДДУ по 214-ФЗ, эскроу</property>
         <property name="Оператор">Cosmos Selection Medical</property>
         <property name="Первый взнос">от 20%</property>
-        <property name="Номер «Стандарт»">33 м², 2+1 гостя</property>
+        <property name="Номер «Стандарт»">33,87 м², 2+1 гостя</property>
       </offer>
       <offer id="202" available="true">
         <name>Инвестиционный номер в отеле в Сочи у моря</name>
@@ -109,7 +109,7 @@
         <property name="Договор">ДДУ по 214-ФЗ, эскроу</property>
         <property name="Оператор">Cosmos Selection Medical</property>
         <property name="Первый взнос">от 20%</property>
-        <property name="Номер «Стандарт»">33 м², 2+1 гостя</property>
+        <property name="Номер «Стандарт»">33,87 м², 2+1 гостя</property>
       </offer>
       <offer id="203" available="true">
         <name>Номер в отеле в собственность по ДДУ, Сочи</name>
@@ -121,7 +121,7 @@
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_03_room.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_01_aerial_sea_mountains.jpg</picture>
         <description>ДДУ по 214-ФЗ, эскроу, разрешение получено</description>
-        <sales_notes>Рассрочка, взнос от 20%</sales_notes>
+        <sales_notes>Рассрочка 29 мес., взнос от 20%</sales_notes>
         <custom_label_0>vera</custom_label_0>
         <custom_label_1>F3</custom_label_1>
         <property name="Локация">Сочи</property>
@@ -129,7 +129,7 @@
         <property name="Договор">ДДУ по 214-ФЗ, эскроу</property>
         <property name="Оператор">Cosmos Selection Medical</property>
         <property name="Первый взнос">от 20%</property>
-        <property name="Номер «Стандарт»">33 м², 2+1 гостя</property>
+        <property name="Номер «Стандарт»">33,87 м², 2+1 гостя</property>
       </offer>
       <offer id="301" available="true">
         <name>Апартаменты в собственность Палаццо де Агой</name>
