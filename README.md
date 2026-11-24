@@ -5,6 +5,7 @@
 - Фид для загрузки в Директ: [`feeds/estate_start_feed.yml`](feeds/estate_start_feed.yml)
 - Минус-фразы: [`feeds/minus_words.txt`](feeds/minus_words.txt)
 - План запуска: [`docs/launch.md`](docs/launch.md)
+- Запуск донора по шагам: [`docs/launch_steps.md`](docs/launch_steps.md)
 - Правила Директа для фидов: [`docs/direct_feed_rules.md`](docs/direct_feed_rules.md)
 - Логика: [`docs/method.md`](docs/method.md)
 
