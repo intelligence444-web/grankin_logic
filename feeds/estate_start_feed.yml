@@ -74,7 +74,7 @@
       <offer id="201" available="true">
         <name>Номер в собственность в ЛОК Вера, Сочи</name>
         <url>https://estate-start.ru/vera/</url>
-        <price from="true">27000000</price>
+        <price from="true">29297550</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_01_aerial_sea_mountains.jpg</picture>
@@ -94,7 +94,7 @@
       <offer id="202" available="true">
         <name>Инвестиционный номер в отеле в Сочи у моря</name>
         <url>https://estate-start.ru/vera/</url>
-        <price from="true">27000000</price>
+        <price from="true">29297550</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_03_room.jpg</picture>
@@ -114,7 +114,7 @@
       <offer id="203" available="true">
         <name>Номер в отеле в собственность по ДДУ, Сочи</name>
         <url>https://estate-start.ru/vera/</url>
-        <price from="true">27000000</price>
+        <price from="true">29297550</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_02_pool.jpg</picture>
