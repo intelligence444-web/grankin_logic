@@ -84,6 +84,7 @@
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_01_aerial_sea_mountains.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_06_facade.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_02_pool.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_03_room.jpg</picture>
         <description>Оздоровительный комплекс, 7–8 минут до моря</description>
@@ -103,6 +104,7 @@
         <price from="true">27000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_06_facade.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_01_aerial_sea_mountains.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_03_room.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_02_pool.jpg</picture>
@@ -124,8 +126,9 @@
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_02_pool.jpg</picture>
-        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_03_room.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_06_facade.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_01_aerial_sea_mountains.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_03_room.jpg</picture>
         <description>ДДУ по 214-ФЗ, эскроу, разрешение получено</description>
         <sales_notes>Рассрочка 29 мес., взнос от 20%</sales_notes>
         <custom_label_0>vera</custom_label_0>
@@ -166,11 +169,11 @@
         <price from="true">31000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_01_aerial_sea.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_03_pool_day.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_05_room_sunset_sea.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_06_room_day_sea.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_08_bedroom_balcony.jpg</picture>
-        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_03_pool_day.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/agoy/agoy_01_aerial_sea.jpg</picture>
         <description>Первая линия без железной дороги, Агой</description>
         <sales_notes>Рассрочка 0%</sales_notes>
         <custom_label_0>agoy</custom_label_0>

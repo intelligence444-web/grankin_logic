@@ -100,6 +100,15 @@ def validate(data):
                     err = check_local_picture(p)
                     if err:
                         errors.append(f"{tag}: {err}")
+    # Первая (главная) картинка у карточек одного объекта не должна повторяться — иначе в галерее карточки одинаковые.
+    firsts = {}
+    for o in data["offers"]:
+        if o["object"] in data["objects"]:
+            first = offer_pictures(data, o)[0]
+            key = (o["object"], first)
+            if key in firsts:
+                errors.append(f"offer {o['id']}: первая картинка совпадает с offer {firsts[key]} ({first})")
+            firsts[key] = o["id"]
     for key, obj in data["objects"].items():
         if len(obj["properties"]) > PROPS_MAX:
             errors.append(f"{key}: больше {PROPS_MAX} характеристик")
