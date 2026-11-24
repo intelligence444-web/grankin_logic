@@ -1,0 +1,62 @@
+{
+  "shop": {
+    "name": "estate-start",
+    "company": "ИП Шахова В. И.",
+    "url": "https://estate-start.ru/"
+  },
+  "objects": {
+    "rizalta": {
+      "category_id": 1,
+      "category": "Номера в отеле в собственность, Белокуриха",
+      "url": "https://estate-start.ru/rizalta/",
+      "price": 19000000,
+      "pictures": ["https://estate-start.ru/img/54347585.jpg"],
+      "properties": [
+        ["Локация", "Белокуриха, Алтай"],
+        ["Договор", "ДДУ по 214-ФЗ"],
+        ["Оператор", "ZONT Hotel Group"],
+        ["Отделка", "ремонт и мебель"],
+        ["Рассрочка", "0%"]
+      ]
+    },
+    "vera": {
+      "category_id": 2,
+      "category": "Номера в отеле в собственность, Сочи",
+      "url": "https://estate-start.ru/vera/",
+      "price": 27000000,
+      "pictures": ["https://estate-start.ru/img/54365123.png"],
+      "properties": [
+        ["Локация", "Сочи"],
+        ["До моря", "7–8 минут пешком"],
+        ["Договор", "ДДУ по 214-ФЗ, эскроу"],
+        ["Оператор", "Cosmos Selection Medical"],
+        ["Первый взнос", "от 20%"]
+      ]
+    },
+    "agoy": {
+      "category_id": 3,
+      "category": "Апартаменты в отеле в собственность, Агой",
+      "url": "https://estate-start.ru/agoy/",
+      "price": 31000000,
+      "pictures": ["https://estate-start.ru/img/51429901.png"],
+      "properties": [
+        ["Локация", "Агой, первая линия"],
+        ["Пляж", "закрытый, 3,3 га"],
+        ["Договор", "ДДУ по 214-ФЗ"],
+        ["Срок сдачи", "IV кв. 2029"],
+        ["Рассрочка", "0%"]
+      ]
+    }
+  },
+  "offers": [
+    {"id": 101, "object": "rizalta", "variant": "F1", "name": "Номер в собственность в отеле Ризалта Резорт", "description": "Номер с ремонтом и мебелью в Белокурихе", "sales_notes": "Рассрочка 0%, ДДУ 214-ФЗ"},
+    {"id": 102, "object": "rizalta", "variant": "F2", "name": "Инвестиционный номер в отеле в Белокурихе, Алтай", "description": "Оператор ZONT Hotel Group, договор на 15 лет", "sales_notes": "Рассрочка 0%"},
+    {"id": 103, "object": "rizalta", "variant": "F3", "name": "Номер в отеле в собственность по ДДУ, Белокуриха", "description": "Курортный отель в горах Алтая, 214-ФЗ", "sales_notes": "Рассрочка 0%, взнос от 20%"},
+    {"id": 201, "object": "vera", "variant": "F1", "name": "Номер в собственность в ЛОК Вера, Сочи", "description": "Оздоровительный комплекс, 7–8 минут до моря", "sales_notes": "Первый взнос от 20%"},
+    {"id": 202, "object": "vera", "variant": "F2", "name": "Инвестиционный номер в отеле в Сочи у моря", "description": "Оператор Cosmos Selection Medical, Медскан", "sales_notes": "Первый взнос от 20%"},
+    {"id": 203, "object": "vera", "variant": "F3", "name": "Номер в отеле в собственность по ДДУ, Сочи", "description": "ДДУ по 214-ФЗ, эскроу, разрешение получено", "sales_notes": "Рассрочка, взнос от 20%"},
+    {"id": 301, "object": "agoy", "variant": "F1", "name": "Апартаменты в собственность Палаццо де Агой", "description": "Отель на первой линии, закрытый пляж 3,3 га", "sales_notes": "Рассрочка 0%, ДДУ 214-ФЗ"},
+    {"id": 302, "object": "agoy", "variant": "F2", "name": "Инвестиционные апартаменты в отеле в Агое", "description": "Первая линия без железной дороги, Агой", "sales_notes": "Рассрочка 0%"},
+    {"id": 303, "object": "agoy", "variant": "F3", "name": "Апартаменты в отеле в собственность по ДДУ, Агой", "description": "Standard, Family, Lux, President Lux", "sales_notes": "Рассрочка 0%, сдача 2029"}
+  ]
+}
