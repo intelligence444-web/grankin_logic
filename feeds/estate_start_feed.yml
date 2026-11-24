@@ -18,6 +18,8 @@
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/rizalta/rizalta_01_aerial_mountains.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/rizalta/rizalta_03_aerial_pool_wellness.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/rizalta/rizalta_04_restaurant_pavilion.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/rizalta/rizalta_02_facade_entrance.jpg</picture>
         <description>Номер с ремонтом и мебелью в Белокурихе</description>
         <sales_notes>Рассрочка 0%, ДДУ 214-ФЗ</sales_notes>
@@ -35,6 +37,8 @@
         <price from="true">19000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/rizalta/rizalta_03_aerial_pool_wellness.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/rizalta/rizalta_04_restaurant_pavilion.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/rizalta/rizalta_01_aerial_mountains.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/rizalta/rizalta_02_facade_entrance.jpg</picture>
         <description>Оператор ZONT Hotel Group, договор на 15 лет</description>
@@ -53,7 +57,9 @@
         <price from="true">19000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/rizalta/rizalta_04_restaurant_pavilion.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/rizalta/rizalta_01_aerial_mountains.jpg</picture>
+        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/rizalta/rizalta_03_aerial_pool_wellness.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/rizalta/rizalta_02_facade_entrance.jpg</picture>
         <description>Курортный отель в горах Алтая, 214-ФЗ</description>
         <sales_notes>Рассрочка 0%, взнос от 20%</sales_notes>
@@ -74,7 +80,6 @@
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_01_aerial_sea_mountains.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_02_pool.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_03_room.jpg</picture>
-        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_04_lounge.jpg</picture>
         <description>Оздоровительный комплекс, 7–8 минут до моря</description>
         <sales_notes>Первый взнос от 20%</sales_notes>
         <custom_label_0>vera</custom_label_0>
@@ -94,7 +99,6 @@
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_03_room.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_01_aerial_sea_mountains.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_02_pool.jpg</picture>
-        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_04_lounge.jpg</picture>
         <description>Оператор Cosmos Selection Medical, Медскан</description>
         <sales_notes>Первый взнос от 20%</sales_notes>
         <custom_label_0>vera</custom_label_0>
@@ -113,7 +117,6 @@
         <categoryId>2</categoryId>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_02_pool.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_03_room.jpg</picture>
-        <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_04_lounge.jpg</picture>
         <picture>https://raw.githubusercontent.com/intelligence444-web/grankin_logic/main/images/vera/vera_01_aerial_sea_mountains.jpg</picture>
         <description>ДДУ по 214-ФЗ, эскроу, разрешение получено</description>
         <sales_notes>Рассрочка, взнос от 20%</sales_notes>

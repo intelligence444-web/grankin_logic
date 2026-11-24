@@ -12,6 +12,8 @@
       "price": 19000000,
       "pictures": [
         "images/rizalta/rizalta_01_aerial_mountains.jpg",
+        "images/rizalta/rizalta_03_aerial_pool_wellness.jpg",
+        "images/rizalta/rizalta_04_restaurant_pavilion.jpg",
         "images/rizalta/rizalta_02_facade_entrance.jpg"
       ],
       "properties": [
@@ -30,8 +32,7 @@
       "pictures": [
         "images/vera/vera_01_aerial_sea_mountains.jpg",
         "images/vera/vera_02_pool.jpg",
-        "images/vera/vera_03_room.jpg",
-        "images/vera/vera_04_lounge.jpg"
+        "images/vera/vera_03_room.jpg"
       ],
       "properties": [
         ["Локация", "Сочи"],
@@ -64,13 +65,15 @@
   },
   "offers": [
     {"id": 101, "object": "rizalta", "variant": "F1", "name": "Номер в собственность в отеле Ризалта Резорт", "description": "Номер с ремонтом и мебелью в Белокурихе", "sales_notes": "Рассрочка 0%, ДДУ 214-ФЗ"},
-    {"id": 102, "object": "rizalta", "variant": "F2", "name": "Инвестиционный номер в отеле в Белокурихе, Алтай", "description": "Оператор ZONT Hotel Group, договор на 15 лет", "sales_notes": "Рассрочка 0%"},
-    {"id": 103, "object": "rizalta", "variant": "F3", "name": "Номер в отеле в собственность по ДДУ, Белокуриха", "description": "Курортный отель в горах Алтая, 214-ФЗ", "sales_notes": "Рассрочка 0%, взнос от 20%"},
+    {"id": 102, "object": "rizalta", "variant": "F2", "name": "Инвестиционный номер в отеле в Белокурихе, Алтай", "description": "Оператор ZONT Hotel Group, договор на 15 лет", "sales_notes": "Рассрочка 0%",
+     "pictures": ["images/rizalta/rizalta_03_aerial_pool_wellness.jpg", "images/rizalta/rizalta_04_restaurant_pavilion.jpg", "images/rizalta/rizalta_01_aerial_mountains.jpg", "images/rizalta/rizalta_02_facade_entrance.jpg"]},
+    {"id": 103, "object": "rizalta", "variant": "F3", "name": "Номер в отеле в собственность по ДДУ, Белокуриха", "description": "Курортный отель в горах Алтая, 214-ФЗ", "sales_notes": "Рассрочка 0%, взнос от 20%",
+     "pictures": ["images/rizalta/rizalta_04_restaurant_pavilion.jpg", "images/rizalta/rizalta_01_aerial_mountains.jpg", "images/rizalta/rizalta_03_aerial_pool_wellness.jpg", "images/rizalta/rizalta_02_facade_entrance.jpg"]},
     {"id": 201, "object": "vera", "variant": "F1", "name": "Номер в собственность в ЛОК Вера, Сочи", "description": "Оздоровительный комплекс, 7–8 минут до моря", "sales_notes": "Первый взнос от 20%"},
     {"id": 202, "object": "vera", "variant": "F2", "name": "Инвестиционный номер в отеле в Сочи у моря", "description": "Оператор Cosmos Selection Medical, Медскан", "sales_notes": "Первый взнос от 20%",
-     "pictures": ["images/vera/vera_03_room.jpg", "images/vera/vera_01_aerial_sea_mountains.jpg", "images/vera/vera_02_pool.jpg", "images/vera/vera_04_lounge.jpg"]},
+     "pictures": ["images/vera/vera_03_room.jpg", "images/vera/vera_01_aerial_sea_mountains.jpg", "images/vera/vera_02_pool.jpg"]},
     {"id": 203, "object": "vera", "variant": "F3", "name": "Номер в отеле в собственность по ДДУ, Сочи", "description": "ДДУ по 214-ФЗ, эскроу, разрешение получено", "sales_notes": "Рассрочка, взнос от 20%",
-     "pictures": ["images/vera/vera_02_pool.jpg", "images/vera/vera_03_room.jpg", "images/vera/vera_04_lounge.jpg", "images/vera/vera_01_aerial_sea_mountains.jpg"]},
+     "pictures": ["images/vera/vera_02_pool.jpg", "images/vera/vera_03_room.jpg", "images/vera/vera_01_aerial_sea_mountains.jpg"]},
     {"id": 301, "object": "agoy", "variant": "F1", "name": "Апартаменты в собственность Палаццо де Агой", "description": "Отель на первой линии, закрытый пляж 3,3 га", "sales_notes": "Рассрочка 0%, ДДУ 214-ФЗ"},
     {"id": 302, "object": "agoy", "variant": "F2", "name": "Инвестиционные апартаменты в отеле в Агое", "description": "Первая линия без железной дороги, Агой", "sales_notes": "Рассрочка 0%",
      "pictures": ["images/agoy/agoy_05_room_sunset_sea.jpg", "images/agoy/agoy_06_room_day_sea.jpg", "images/agoy/agoy_08_bedroom_balcony.jpg", "images/agoy/agoy_01_aerial_sea.jpg", "images/agoy/agoy_03_pool_day.jpg"]},
