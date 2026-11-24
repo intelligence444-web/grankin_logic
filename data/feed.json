@@ -10,7 +10,10 @@
       "category": "Номера в отеле в собственность, Белокуриха",
       "url": "https://estate-start.ru/rizalta/",
       "price": 19000000,
-      "pictures": ["https://estate-start.ru/img/54347585.jpg"],
+      "pictures": [
+        "images/rizalta/rizalta_01_aerial_mountains.jpg",
+        "images/rizalta/rizalta_02_facade_entrance.jpg"
+      ],
       "properties": [
         ["Локация", "Белокуриха, Алтай"],
         ["Договор", "ДДУ по 214-ФЗ"],
