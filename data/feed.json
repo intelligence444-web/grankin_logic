@@ -1,14 +1,14 @@
 {
   "shop": {
-    "name": "estate-start",
+    "name": "novostroyka-pro",
     "company": "ИП Шахова В. И.",
-    "url": "https://estate-start.ru/"
+    "url": "https://novostroyka-pro.ru/"
   },
   "objects": {
     "rizalta": {
       "category_id": 1,
       "category": "Номера в отеле в собственность, Белокуриха",
-      "url": "https://estate-start.ru/rizalta/",
+      "url": "https://novostroyka-pro.ru/rizalta/",
       "price": 19000000,
       "pictures": [
         "images/rizalta/rizalta_01_aerial_mountains.jpg",
@@ -29,7 +29,7 @@
     "vera": {
       "category_id": 2,
       "category": "Номера в отеле в собственность, Сочи",
-      "url": "https://estate-start.ru/vera/",
+      "url": "https://novostroyka-pro.ru/vera/",
       "price": 27000000,
       "pictures": [
         "images/vera/vera_01_aerial_sea_mountains.jpg",
@@ -49,7 +49,7 @@
     "agoy": {
       "category_id": 3,
       "category": "Апартаменты в отеле в собственность, Агой",
-      "url": "https://estate-start.ru/agoy/",
+      "url": "https://novostroyka-pro.ru/agoy/",
       "price": 31000000,
       "pictures": [
         "images/agoy/agoy_01_aerial_sea.jpg",

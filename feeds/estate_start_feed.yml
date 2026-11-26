@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2026-11-24T12:00">
   <shop>
-    <name>estate-start</name>
+    <name>novostroyka-pro</name>
     <company>ИП Шахова В. И.</company>
-    <url>https://estate-start.ru/</url>
+    <url>https://novostroyka-pro.ru/</url>
     <currencies><currency id="RUR" rate="1"/></currencies>
     <categories>
       <category id="1">Номера в отеле в собственность, Белокуриха</category>
@@ -13,7 +13,7 @@
     <offers>
       <offer id="101" available="true">
         <name>Номер в собственность в отеле Ризалта Резорт</name>
-        <url>https://estate-start.ru/rizalta/</url>
+        <url>https://novostroyka-pro.ru/rizalta/</url>
         <price from="true">19000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
@@ -35,7 +35,7 @@
       </offer>
       <offer id="102" available="true">
         <name>Инвестиционный номер в отеле в Белокурихе, Алтай</name>
-        <url>https://estate-start.ru/rizalta/</url>
+        <url>https://novostroyka-pro.ru/rizalta/</url>
         <price from="true">19000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
@@ -57,7 +57,7 @@
       </offer>
       <offer id="103" available="true">
         <name>Номер в отеле в собственность по ДДУ, Белокуриха</name>
-        <url>https://estate-start.ru/rizalta/</url>
+        <url>https://novostroyka-pro.ru/rizalta/</url>
         <price from="true">19000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
@@ -79,7 +79,7 @@
       </offer>
       <offer id="201" available="true">
         <name>Номер в собственность в ЛОК Вера, Сочи</name>
-        <url>https://estate-start.ru/vera/</url>
+        <url>https://novostroyka-pro.ru/vera/</url>
         <price from="true">27000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
@@ -100,7 +100,7 @@
       </offer>
       <offer id="202" available="true">
         <name>Инвестиционный номер в отеле в Сочи у моря</name>
-        <url>https://estate-start.ru/vera/</url>
+        <url>https://novostroyka-pro.ru/vera/</url>
         <price from="true">27000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
@@ -121,7 +121,7 @@
       </offer>
       <offer id="203" available="true">
         <name>Номер в отеле в собственность по ДДУ, Сочи</name>
-        <url>https://estate-start.ru/vera/</url>
+        <url>https://novostroyka-pro.ru/vera/</url>
         <price from="true">27000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
@@ -142,7 +142,7 @@
       </offer>
       <offer id="301" available="true">
         <name>Апартаменты в собственность Палаццо де Агой</name>
-        <url>https://estate-start.ru/agoy/</url>
+        <url>https://novostroyka-pro.ru/agoy/</url>
         <price from="true">31000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -165,7 +165,7 @@
       </offer>
       <offer id="302" available="true">
         <name>Инвестиционные апартаменты в отеле в Агое</name>
-        <url>https://estate-start.ru/agoy/</url>
+        <url>https://novostroyka-pro.ru/agoy/</url>
         <price from="true">31000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
@@ -188,7 +188,7 @@
       </offer>
       <offer id="303" available="true">
         <name>Апартаменты в отеле в собственность по ДДУ, Агой</name>
-        <url>https://estate-start.ru/agoy/</url>
+        <url>https://novostroyka-pro.ru/agoy/</url>
         <price from="true">31000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>

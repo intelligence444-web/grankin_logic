@@ -1,6 +1,6 @@
 # grankin_logic
 
-Фиды и план запуска поисковых товарных кампаний Яндекс Директа для estate-start.ru (Ризалта Резорт, ЛОК Вера, Палаццо де Агой).
+Фиды и план запуска поисковых товарных кампаний Яндекс Директа для novostroyka-pro.ru (Ризалта Резорт, ЛОК Вера, Палаццо де Агой).
 
 - Фид для загрузки в Директ: [`feeds/estate_start_feed.yml`](feeds/estate_start_feed.yml)
 - Минус-фразы: [`feeds/minus_words.txt`](feeds/minus_words.txt)
